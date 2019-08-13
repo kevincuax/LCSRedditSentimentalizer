@@ -1,0 +1,1 @@
+A jupyter notebook that extracts thousands of comments from Reddit about proLeague of Legends players from post match threads and analyzes the sentiments of these comments using TextBlob. Visualizations of this data is created iwth Pandas, and they show which players received most positive/negative comments based off the analysis
